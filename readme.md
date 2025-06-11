@@ -133,18 +133,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-o
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaqn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDlimasl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/devaqn/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/devDlimasl/count.svg" /></p>
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devaqn/devaqn/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devDlimasl/devDlimasl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devDlimasl/devDlimasl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devDlimasl/devDlimasl/output/github-contribution-grid-snake.svg">
 </picture>
 
 
