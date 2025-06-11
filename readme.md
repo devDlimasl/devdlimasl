@@ -11,7 +11,7 @@
 
 Minha paixão por tecnologia me impulsiona a explorar novas soluções e compartilhar conhecimento. Neste GitHub, você encontrará meus projetos e um pouco da minha jornada no mundo do desenvolvimento. Estudando essas linguagens.
 
-✨ Quer saber mais sobre mim e meu trabalho? [Entre em contato clicando nesse link"](https://wa.me/5581998897491)
+✨ Quer saber mais sobre mim e meu trabalho? [Entre em contato clicando nesse link"](https://wa.me/5581998897491?text=Tenho%20interesse%20em%20algum%20servi%C3%A7o.)
 
 
 ### 🤖 Linguagens e Tecnologias
