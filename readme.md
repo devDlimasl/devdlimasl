@@ -5,7 +5,7 @@
   </a>
 </p>
 
-**`Desenvolvedor Em`**
+**`Desenvolvedor Front-End`**
 
 "Olá! Me Chamo Daniel Vitor Silva Lima, um desenvolvedor de 21 anos, de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI-PE, Tambem Sou formado em Desainer No ETE Cicero Dias .
 
