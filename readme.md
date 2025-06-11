@@ -1,19 +1,18 @@
-# 👨🏻‍💻 Daniel Vitor Da Silva Lima!
+# 👨🏻‍💻 Daniel Lima!
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+Sou+Daniel+Lima!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
 </p>
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Em`**
 
-"Olá! Me Chamo Pedro Miguel Costa Gomes, um desenvolvedor de 19 anos, de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI-PE e também na UNIFB.
+"Olá! Me Chamo Daniel Vitor Silva Lima, um desenvolvedor de 21 anos, de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI-PE, Tambem Sou formado em Desainer No ETE Cicero Dias .
 
 Minha paixão por tecnologia me impulsiona a explorar novas soluções e compartilhar conhecimento. Neste GitHub, você encontrará meus projetos e um pouco da minha jornada no mundo do desenvolvimento. Estudando essas linguagens.
 
-✨ Quer saber mais sobre mim e meu trabalho? [Visite meu portfólio para conhecer meu 'cantinho sobre mim'!"](https://devaqn.netlify.app/)
+✨ Quer saber mais sobre mim e meu trabalho? [Entre em contato clicando nesse link"](https://wa.me/5581998897491)
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
